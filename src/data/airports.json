@@ -1,0 +1,452 @@
+[
+  {
+    "code": "KHI",
+    "city": "Karachi",
+    "name": "Jinnah International Airport",
+    "country": "Pakistan"
+  },
+  {
+    "code": "LHE",
+    "city": "Lahore",
+    "name": "Allama Iqbal International Airport",
+    "country": "Pakistan"
+  },
+  {
+    "code": "ISB",
+    "city": "Islamabad",
+    "name": "Islamabad International Airport",
+    "country": "Pakistan"
+  },
+  {
+    "code": "PEW",
+    "city": "Peshawar",
+    "name": "Bacha Khan International Airport",
+    "country": "Pakistan"
+  },
+  {
+    "code": "MUX",
+    "city": "Multan",
+    "name": "Multan International Airport",
+    "country": "Pakistan"
+  },
+  {
+    "code": "SKT",
+    "city": "Sialkot",
+    "name": "Sialkot International Airport",
+    "country": "Pakistan"
+  },
+  {
+    "code": "UET",
+    "city": "Quetta",
+    "name": "Quetta International Airport",
+    "country": "Pakistan"
+  },
+  {
+    "code": "LYP",
+    "city": "Faisalabad",
+    "name": "Faisalabad International Airport",
+    "country": "Pakistan"
+  },
+  {
+    "code": "GWD",
+    "city": "Gwadar",
+    "name": "Gwadar International Airport",
+    "country": "Pakistan"
+  },
+  {
+    "code": "SKZ",
+    "city": "Sukkur",
+    "name": "Begum Nusrat Bhutto Airport",
+    "country": "Pakistan"
+  },
+  {
+    "code": "GIL",
+    "city": "Gilgit",
+    "name": "Gilgit Airport",
+    "country": "Pakistan"
+  },
+  {
+    "code": "KDU",
+    "city": "Skardu",
+    "name": "Skardu International Airport",
+    "country": "Pakistan"
+  },
+  {
+    "code": "CJL",
+    "city": "Chitral",
+    "name": "Chitral Airport",
+    "country": "Pakistan"
+  },
+  {
+    "code": "BHV",
+    "city": "Bahawalpur",
+    "name": "Bahawalpur Airport",
+    "country": "Pakistan"
+  },
+  {
+    "code": "RYK",
+    "city": "Rahim Yar Khan",
+    "name": "Shaikh Zayed International Airport",
+    "country": "Pakistan"
+  },
+  {
+    "code": "TUK",
+    "city": "Turbat",
+    "name": "Turbat International Airport",
+    "country": "Pakistan"
+  },
+  {
+    "code": "PJG",
+    "city": "Panjgur",
+    "name": "Panjgur Airport",
+    "country": "Pakistan"
+  },
+  {
+    "code": "DBA",
+    "city": "Dalbandin",
+    "name": "Dalbandin Airport",
+    "country": "Pakistan"
+  },
+  {
+    "code": "DSK",
+    "city": "Dera Ismail Khan",
+    "name": "Dera Ismail Khan Airport",
+    "country": "Pakistan"
+  },
+  {
+    "code": "DEA",
+    "city": "Dera Ghazi Khan",
+    "name": "Dera Ghazi Khan International Airport",
+    "country": "Pakistan"
+  },
+  {
+    "code": "MJD",
+    "city": "Mohenjo-daro",
+    "name": "Moenjodaro Airport",
+    "country": "Pakistan"
+  },
+  {
+    "code": "WNS",
+    "city": "Nawabshah",
+    "name": "Nawabshah Airport",
+    "country": "Pakistan"
+  },
+  {
+    "code": "MFG",
+    "city": "Muzaffarabad",
+    "name": "Muzaffarabad Airport",
+    "country": "Pakistan"
+  },
+  {
+    "code": "HDD",
+    "city": "Hyderabad",
+    "name": "Hyderabad Airport",
+    "country": "Pakistan"
+  },
+  {
+    "code": "DXB",
+    "city": "Dubai",
+    "name": "Dubai International Airport",
+    "country": "UAE"
+  },
+  {
+    "code": "AUH",
+    "city": "Abu Dhabi",
+    "name": "Zayed International Airport",
+    "country": "UAE"
+  },
+  {
+    "code": "SHJ",
+    "city": "Sharjah",
+    "name": "Sharjah International Airport",
+    "country": "UAE"
+  },
+  {
+    "code": "DOH",
+    "city": "Doha",
+    "name": "Hamad International Airport",
+    "country": "Qatar"
+  },
+  {
+    "code": "JED",
+    "city": "Jeddah",
+    "name": "King Abdulaziz International Airport",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "RUH",
+    "city": "Riyadh",
+    "name": "King Khalid International Airport",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "DMM",
+    "city": "Dammam",
+    "name": "King Fahd International Airport",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "MED",
+    "city": "Medina",
+    "name": "Prince Mohammad bin Abdulaziz International Airport",
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "IST",
+    "city": "Istanbul",
+    "name": "Istanbul Airport",
+    "country": "Turkey"
+  },
+  {
+    "code": "SAW",
+    "city": "Istanbul",
+    "name": "Sabiha Gökçen International Airport",
+    "country": "Turkey"
+  },
+  {
+    "code": "BKK",
+    "city": "Bangkok",
+    "name": "Suvarnabhumi Airport",
+    "country": "Thailand"
+  },
+  {
+    "code": "DMK",
+    "city": "Bangkok",
+    "name": "Don Mueang International Airport",
+    "country": "Thailand"
+  },
+  {
+    "code": "SIN",
+    "city": "Singapore",
+    "name": "Changi Airport",
+    "country": "Singapore"
+  },
+  {
+    "code": "KUL",
+    "city": "Kuala Lumpur",
+    "name": "Kuala Lumpur International Airport",
+    "country": "Malaysia"
+  },
+  {
+    "code": "HKG",
+    "city": "Hong Kong",
+    "name": "Hong Kong International Airport",
+    "country": "Hong Kong"
+  },
+  {
+    "code": "PEK",
+    "city": "Beijing",
+    "name": "Beijing Capital International Airport",
+    "country": "China"
+  },
+  {
+    "code": "PVG",
+    "city": "Shanghai",
+    "name": "Shanghai Pudong International Airport",
+    "country": "China"
+  },
+  {
+    "code": "CAN",
+    "city": "Guangzhou",
+    "name": "Guangzhou Baiyun International Airport",
+    "country": "China"
+  },
+  {
+    "code": "HND",
+    "city": "Tokyo",
+    "name": "Haneda Airport",
+    "country": "Japan"
+  },
+  {
+    "code": "NRT",
+    "city": "Tokyo",
+    "name": "Narita International Airport",
+    "country": "Japan"
+  },
+  {
+    "code": "ICN",
+    "city": "Seoul",
+    "name": "Incheon International Airport",
+    "country": "South Korea"
+  },
+  {
+    "code": "DEL",
+    "city": "New Delhi",
+    "name": "Indira Gandhi International Airport",
+    "country": "India"
+  },
+  {
+    "code": "BOM",
+    "city": "Mumbai",
+    "name": "Chhatrapati Shivaji Maharaj International Airport",
+    "country": "India"
+  },
+  {
+    "code": "CGK",
+    "city": "Jakarta",
+    "name": "Soekarno-Hatta International Airport",
+    "country": "Indonesia"
+  },
+  {
+    "code": "MNL",
+    "city": "Manila",
+    "name": "Ninoy Aquino International Airport",
+    "country": "Philippines"
+  },
+  {
+    "code": "LHR",
+    "city": "London",
+    "name": "Heathrow Airport",
+    "country": "UK"
+  },
+  {
+    "code": "LGW",
+    "city": "London",
+    "name": "Gatwick Airport",
+    "country": "UK"
+  },
+  {
+    "code": "MAN",
+    "city": "Manchester",
+    "name": "Manchester Airport",
+    "country": "UK"
+  },
+  {
+    "code": "CDG",
+    "city": "Paris",
+    "name": "Charles de Gaulle Airport",
+    "country": "France"
+  },
+  {
+    "code": "FRA",
+    "city": "Frankfurt",
+    "name": "Frankfurt Airport",
+    "country": "Germany"
+  },
+  {
+    "code": "MUC",
+    "city": "Munich",
+    "name": "Munich Airport",
+    "country": "Germany"
+  },
+  {
+    "code": "AMS",
+    "city": "Amsterdam",
+    "name": "Amsterdam Airport Schiphol",
+    "country": "Netherlands"
+  },
+  {
+    "code": "MAD",
+    "city": "Madrid",
+    "name": "Adolfo Suárez Madrid–Barajas Airport",
+    "country": "Spain"
+  },
+  {
+    "code": "FCO",
+    "city": "Rome",
+    "name": "Leonardo da Vinci–Fiumicino Airport",
+    "country": "Italy"
+  },
+  {
+    "code": "ZRH",
+    "city": "Zurich",
+    "name": "Zurich Airport",
+    "country": "Switzerland"
+  },
+  {
+    "code": "JFK",
+    "city": "New York",
+    "name": "John F. Kennedy International Airport",
+    "country": "USA"
+  },
+  {
+    "code": "EWR",
+    "city": "Newark",
+    "name": "Newark Liberty International Airport",
+    "country": "USA"
+  },
+  {
+    "code": "IAD",
+    "city": "Washington D.C.",
+    "name": "Dulles International Airport",
+    "country": "USA"
+  },
+  {
+    "code": "LAX",
+    "city": "Los Angeles",
+    "name": "Los Angeles International Airport",
+    "country": "USA"
+  },
+  {
+    "code": "SFO",
+    "city": "San Francisco",
+    "name": "San Francisco International Airport",
+    "country": "USA"
+  },
+  {
+    "code": "ORD",
+    "city": "Chicago",
+    "name": "O'Hare International Airport",
+    "country": "USA"
+  },
+  {
+    "code": "ATL",
+    "city": "Atlanta",
+    "name": "Hartsfield-Jackson Atlanta International Airport",
+    "country": "USA"
+  },
+  {
+    "code": "DFW",
+    "city": "Dallas",
+    "name": "Dallas/Fort Worth International Airport",
+    "country": "USA"
+  },
+  {
+    "code": "YYZ",
+    "city": "Toronto",
+    "name": "Pearson International Airport",
+    "country": "Canada"
+  },
+  {
+    "code": "YVR",
+    "city": "Vancouver",
+    "name": "Vancouver International Airport",
+    "country": "Canada"
+  },
+  {
+    "code": "SYD",
+    "city": "Sydney",
+    "name": "Sydney Kingsford Smith Airport",
+    "country": "Australia"
+  },
+  {
+    "code": "MEL",
+    "city": "Melbourne",
+    "name": "Melbourne Airport",
+    "country": "Australia"
+  },
+  {
+    "code": "AKL",
+    "city": "Auckland",
+    "name": "Auckland Airport",
+    "country": "New Zealand"
+  },
+  {
+    "code": "JNB",
+    "city": "Johannesburg",
+    "name": "O.R. Tambo International Airport",
+    "country": "South Africa"
+  },
+  {
+    "code": "CAI",
+    "city": "Cairo",
+    "name": "Cairo International Airport",
+    "country": "Egypt"
+  },
+  {
+    "code": "GRU",
+    "city": "São Paulo",
+    "name": "São Paulo/Guarulhos International Airport",
+    "country": "Brazil"
+  }
+]
